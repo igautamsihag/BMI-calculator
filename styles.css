@@ -1,0 +1,33 @@
+body{
+    background-color: #fcc9b6;
+    text-align: center;
+}
+
+#bmi-table{
+    border: 1px solid black;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    margin: 80px auto;
+    visibility: hidden;
+}
+
+input{
+    width: 150px;
+    height: 25px;
+    border: 1px solid black;
+}
+
+.weight{
+    width: 600px;
+    margin: 20px auto;
+}
+
+.height{
+    width: 600px;
+    margin: 20px auto;
+}
+
+.refresh{
+    visibility: hidden;
+}
